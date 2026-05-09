@@ -1,18 +1,4 @@
 ﻿const generatedBibEntries = {
-    "allis1994proof": {
-        "author": "Allis, L. Victor and van der Meulen, Maarten and van den Herik, H. Jaap",
-        "doi": "10.1016/0004-3702(94)90004-3",
-        "journal": "Artificial Intelligence",
-        "keywords": "proof-number-search, game-tree-search, exact-search",
-        "number": "1",
-        "pages": "91--124",
-        "publisher": "Elsevier",
-        "title": "{Proof-Number Search}",
-        "type": "article",
-        "url": "https://doi.org/10.1016/0004-3702(94)90004-3",
-        "volume": "66",
-        "year": "1994"
-    },
     "barker2011solving": {
         "author": "Barker, Joseph and Korf, Richard E.",
         "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
@@ -93,6 +79,18 @@
         "url": "https://doi.org/10.3390/app11052056",
         "volume": "11",
         "year": "2021"
+    },
+    "kocsis2006bandit": {
+        "author": "Kocsis, Levente and Szepesv{\\'a}ri, Csaba",
+        "booktitle": "Machine Learning: ECML 2006",
+        "doi": "10.1007/11871842_29",
+        "keywords": "mcts, uct, monte-carlo-planning, game-ai",
+        "pages": "282--293",
+        "publisher": "Springer",
+        "title": "{Bandit Based Monte-Carlo Planning}",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.1007/11871842_29",
+        "year": "2006"
     },
     "li2020research": {
         "author": "Li, Shuqin and Zhang, Yipeng and Ding, Meng and Dai, Pengcheng",
